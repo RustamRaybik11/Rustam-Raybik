@@ -117,9 +117,7 @@ html, body {
   height: 30px;
   top: 50%;
   margin-top: -15px;
-  background: #1e87f0;
   left: 3px;
-  border-radius: 50%;
   z-index: 0;
 }
 
